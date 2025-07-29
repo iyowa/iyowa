@@ -4,4 +4,4 @@
 
 ![stamp1](stamp1.webp)![stamp2](stamp2.webp)![stamp3](stamp3.png)
 
-![divider3](divider3.webp)
+![divider4](divider4.png)
